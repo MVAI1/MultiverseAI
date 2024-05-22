@@ -211,6 +211,7 @@ const PortfolioLanding = () => {
                           {value.buttonText ? ( value.bgImage=== 'bg_image--34') ? (  
                           <div onClick={()=> setOpen(true)} className='slide-btn'>
                               <a
+                                href='#'
                                 className='rn-button-style--2 btn-primary-color'
                               >
                                 {value.buttonText}
