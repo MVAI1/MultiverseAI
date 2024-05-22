@@ -7,7 +7,7 @@ let TeamContent = [
     images: 'mosbah',
     title: 'DVM. Amine mosbah',
     designation: 'CEO MVAI| Senior biomedical & Data science researcher',
-    description: 'Dr. Maher is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
+    description: 'Dr. Mosbah is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
     socialNetwork: [
       {
         icon: <FaFacebookF />,

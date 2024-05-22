@@ -239,8 +239,10 @@ const PortfolioLanding = () => {
         </div>
       </div>
       {/* End Slider Area   */}
+
+      
       {/* Start About Area */}
-      <div className='about-area ptb--120 bg_color--1' id='intervention'>
+      {/* <div className='about-area ptb--120 bg_color--1' id='intervention'>
         <div className='about-wrapper'>
           <div className='container'>
             <div className='row row--35 align-items-center'>
@@ -262,32 +264,13 @@ const PortfolioLanding = () => {
                       outbreak , bloodscan & atbscan toolkits were decisive.
                     </p>
                   </div>
-                  {/* <div className='row mt--30'>
-                      <div className='col-lg-6 col-md-12 col-sm-12 col-12'>
-                        <div className='about-us-list'>
-                          <h3 className='title'>Who we are</h3>
-                          <p>
-                            There are many vtions of passages of Lorem Ipsum
-                            available, but the majority have suffered.
-                          </p>
-                        </div>
-                      </div>
-                      <div className='col-lg-6 col-md-12 col-sm-12 col-12'>
-                        <div className='about-us-list'>
-                          <h3 className='title'>Who we are</h3>
-                          <p>
-                            There are many vtions of passages of Lorem Ipsum
-                            available, but the majority have suffered.
-                          </p>
-                        </div>
-                      </div>
-                    </div> */}
+
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* End About Area */}
       <div className='rn-testimonial-area bg_color--1 ptb--120' id='SDG'>
         <div className='container'>
