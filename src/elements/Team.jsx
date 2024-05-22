@@ -5,17 +5,17 @@ let TeamContent = [
  
   {
     images: 'mosbah',
-    title: 'DVM. Amine mosbah',
+    title: 'DVM. Amine Mosbah',
     designation: 'CEO MVAI| Senior biomedical & Data science researcher',
     description: 'Dr. Mosbah is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
       },
     ],
   }, {
@@ -25,11 +25,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
       },
       {
         icon: <FaTwitter />,
@@ -44,11 +44,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/wassim-sliti-72b080187/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/wassim-sliti-72b080187/',
       },
       {
         icon: <FaTwitter />,
@@ -59,15 +59,15 @@ let TeamContent = [
   {
     images: 'maher',
     title: 'Eng. Maher Boughdiri',
-    designation: 'Product Lead MVAI | R&D Engineer | PhD Student',
+    designation: 'Product Lead MVAI | IoT&Blockchain Specialist | PhD Student',
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/maherboughdiri/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/maherboughdiri/',
       },
       {
         icon: <FaTwitter />,
@@ -82,11 +82,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/iheb-chhaibi/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/iheb-chhaibi/',
       },
       {
         icon: <FaTwitter />,
@@ -97,15 +97,15 @@ let TeamContent = [
   {
     images: 'rahmaa',
     title: ' Rahma Mghirbi',
-    designation: ' Sales Manger ',
+    designation: ' Sales Manager ',
     socialNetwork: [
       {
         icon: <FaFacebookF />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/rahma-mghirbi-a31b06271/',
       },
       {
         icon: <FaLinkedinIn />,
-        url: '#',
+        url: 'https://www.linkedin.com/in/rahma-mghirbi-a31b06271/',
       },
       {
         icon: <FaTwitter />,

@@ -99,7 +99,7 @@ class HeaderThree extends Component{
                     </li>
                 
                     <li>
-                      <a href={`${process.env.PUBLIC_URL}/models`}>Products</a>
+                      <a href={`${process.env.PUBLIC_URL}/models`}>Our Products</a>
                     </li>
                     <li>
                       <a href={`${process.env.PUBLIC_URL}/#research`}>

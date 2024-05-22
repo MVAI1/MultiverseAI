@@ -9,36 +9,7 @@ import { FaFish } from 'react-icons/fa'
 import Badge from '@mui/material/Badge';
 
 const ServiceList = [
-  // {
-  //   icon: <FaFish />,
-  //   title: 'Aqua Scan',
-  //   description:
-  //     'Aquaculture management system',
-  // },
-  // {
-  //   icon: <LunchDiningOutlinedIcon sx={{ fontSize: 50 }} />,
-  //   title: 'Food Scan',
-  //   description:
-  //     'Food safety assessments',
-  // },
-  // {
-  //   icon: <VaccinesOutlinedIcon sx={{ fontSize: 50 }} />,
-  //   title: 'Immuno Scan',
-  //   description:
-  //     'I throw myself down among the tall grass by the stream as I lie close to the earth.',
-  // },
   
-];
-
-const ServiceListReady = [
-   
-  {
-    icon: <FiDroplet />,
-    title: 'AVI-Twins',
-    description:
-      'AI-Empowered Digital Twins for a sustainable aviculture ',
-    url: 'http://68.219.124.100:5000/',
-  },
   {
     icon: <BugReportIcon sx={{ fontSize: 50 }} />,
     title: 'Tick Scan ',
@@ -53,6 +24,36 @@ const ServiceListReady = [
       'Antibiotic susceptibility test interpretation',
     url: 'http://52.169.139.70:8080/',
   },
+  {
+    icon: <FaFish />,
+    title: 'Aqua Scan',
+    description:
+      'Aquaculture management system',
+  },
+  {
+    icon: <LunchDiningOutlinedIcon sx={{ fontSize: 50 }} />,
+    title: 'Food Scan',
+    description:
+      'Food safety assessments',
+  },
+  // {
+  //   icon: <VaccinesOutlinedIcon sx={{ fontSize: 50 }} />,
+  //   title: 'AviCRISPRTwins',
+  //   description:
+  //     'I throw myself down among the tall grass by the stream as I lie close to the earth.',
+  // },
+  
+];
+
+const ServiceListReady = [
+   
+  {
+    icon: <FiDroplet />,
+    title: 'AVI-Twins',
+    description:
+      'AI-Empowered Digital Twins for a sustainable aviculture ',
+    url: 'http://68.219.124.100:5000/',
+  }
   // {
   //   icon: <MedicationOutlinedIcon sx={{ fontSize: 50 }} />,
   //   title: 'Drug Scan',

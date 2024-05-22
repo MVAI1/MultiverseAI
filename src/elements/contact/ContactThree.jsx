@@ -22,7 +22,7 @@ class ContactThree extends Component{
                       Connect with us via email:
                       <a href='mailto:contact@multiversai.com'>
                         {' '}
-                        contact@multiversai.com
+                        contact@imverss.com
                       </a>{' '}
                     
                     </p>
