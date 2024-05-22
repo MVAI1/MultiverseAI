@@ -1,0 +1,60 @@
+// All Css Here
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import "../public/assets/css/plugins.css";
+@import "../public/assets/scss/style";
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import 'node_modules/react-modal-video/scss/modal-video.scss';
+
+
+/* index.scss */
+.team {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .team img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+  }
+  
+  .team img:hover {
+    transform: scale(1.1);
+    border-color: #007bff;
+  }
+  
+  .team h3 {
+    margin-top: 15px;
+    font-size: 1.25rem;
+  }
+  
+  .team p {
+    margin: 0;
+    color: #777;
+  }
+  
+  .team .description {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .team .social {
+    margin-top: 10px;
+  }
+  
+  .team .social a {
+    margin: 0 5px;
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .team .social a:hover {
+    color: #007bff;
+  }
+  
+.experts-panel h4{
+    color: #bb4141;
+}
