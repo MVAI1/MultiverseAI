@@ -15,18 +15,18 @@ const ServiceList = [
     title: 'Tick Scan ',
     description:
       'Ectoparasite identification',
-    url: 'http://68.219.124.100:5000/',
+    url: '',
   },
   {
     icon: <VaccinesOutlinedIcon sx={{ fontSize: 50 }} />,
     title: 'ATB Scan',
     description:
       'Antibiotic susceptibility test interpretation',
-    url: 'http://52.169.139.70:8080/',
+    url: '',
   },
   {
     icon: <FaFish />,
-    title: 'Aqua Scan',
+    title: 'Aqua Twins',
     description:
       'Aquaculture management system',
   },
@@ -52,7 +52,7 @@ const ServiceListReady = [
     title: 'AVI-Twins',
     description:
       'AI-Empowered Digital Twins for a sustainable aviculture ',
-    url: 'http://68.219.124.100:5000/',
+    url: 'https://aviscrisprtwins.com/',
   }
   // {
   //   icon: <MedicationOutlinedIcon sx={{ fontSize: 50 }} />,
