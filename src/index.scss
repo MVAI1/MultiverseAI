@@ -58,3 +58,66 @@
 .experts-panel h4{
     color: #bb4141;
 }
+
+
+
+.expert {
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+
+.expert img {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.content {
+  padding: 10px 0;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.designation {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+
+.social-icon {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.social-icon li {
+  margin: 0 5px;
+}
+
+.social-icon li a {
+  font-size: 20px;
+  transition: color 0.3s ease;
+}
+
+/* Specific colors for each social icon */
+.fa-linkedin {
+  color: #0077b5; /* LinkedIn blue */
+}
+
+.fa-researchgate {
+  color: #00CCBB; /* ResearchGate teal */
+}
+
+.fa-twitter {
+  color: #1DA1F2; /* Twitter blue */
+}

@@ -1,57 +1,63 @@
 import React, { Component } from "react";
-import { FaFacebookF, FaLinkedinIn, FaTwitter } from "react-icons/fa";
+import { FaFacebookF, FaLinkedinIn, FaTwitter,FaResearchgate } from "react-icons/fa";
 
 let TeamContent = [
  
   {
-    images: 'mosbah',
+    images: 'amin',
     title: 'DVM. Amine Mosbah',
     designation: 'CEO MVAI| Senior biomedical & Data science researcher',
     description: 'Dr. Mosbah is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaLinkedinIn className="fa-linkedin" />,
         url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
       },
       {
-        icon: <FaLinkedinIn />,
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: 'https://www.researchgate.net/profile/Amine-Mosbah',
+      },
+      {
+        icon: <FaTwitter className="fa-twitter" />,
         url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
       },
     ],
+    
   }, {
     images: 'aymen',
     title: 'Dr.Eng Aymen Yahyaoui',
     designation: 'CTO MVAI | Senior AI&ML Researcher',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaLinkedinIn className="fa-linkedin" />,
         url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
       },
       {
-        icon: <FaLinkedinIn />,
-        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: 'https://www.researchgate.net/profile/Aymen-Yahyaoui',
       },
       {
-        icon: <FaTwitter />,
-        url: '#',
+        icon: <FaTwitter className="fa-twitter" />,
+        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
       },
     ],
+    
   },
   {
     images: 'wassimm',
     title: 'Eng. Wassim Sliti',
-    designation: ' Tech Lead | AI&ML Engineer',
+    designation: ' Tech Lead | Computer Vision  Engineer',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaLinkedinIn className="fa-linkedin" />,
         url: 'https://www.linkedin.com/in/wassim-sliti-72b080187/',
       },
       {
-        icon: <FaLinkedinIn />,
-        url: 'https://www.linkedin.com/in/wassim-sliti-72b080187/',
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: 'https://www.researchgate.net/profile/Sliti-Wassim',
       },
       {
-        icon: <FaTwitter />,
+        icon: <FaTwitter className="fa-twitter" />,
         url: '#',
       },
     ],
@@ -59,18 +65,18 @@ let TeamContent = [
   {
     images: 'maher',
     title: 'Eng. Maher Boughdiri',
-    designation: 'Product Lead MVAI | IoT&Blockchain Specialist | PhD Student',
+    designation: 'Product Lead MVAI | IoT & Blockchain Specialist | PhD Student',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaLinkedinIn className="fa-linkedin" />,
         url: 'https://www.linkedin.com/in/maherboughdiri/',
       },
       {
-        icon: <FaLinkedinIn />,
-        url: 'https://www.linkedin.com/in/maherboughdiri/',
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: 'https://www.researchgate.net/profile/Boughdiri-Maher',
       },
       {
-        icon: <FaTwitter />,
+        icon: <FaTwitter className="fa-twitter" />,
         url: '#',
       },
     ],
@@ -78,18 +84,18 @@ let TeamContent = [
   {
     images: 'iheb',
     title: 'Eng. Iheb Chhaibi',
-    designation: 'Data Scientist | Digital Twins Specialist',
+    designation: 'AI & ML Engineer ',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
-        url: 'https://www.linkedin.com/in/iheb-chhaibi/',
+        icon: <FaLinkedinIn className="fa-linkedin" />,
+        url: '',
       },
       {
-        icon: <FaLinkedinIn />,
-        url: 'https://www.linkedin.com/in/iheb-chhaibi/',
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: '',
       },
       {
-        icon: <FaTwitter />,
+        icon: <FaTwitter className="fa-twitter" />,
         url: '#',
       },
     ],
@@ -100,34 +106,54 @@ let TeamContent = [
     designation: ' Sales Manager ',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaFacebookF className="fa-linkedin"/>,
         url: 'https://www.linkedin.com/in/rahma-mghirbi-a31b06271/',
       },
       {
-        icon: <FaLinkedinIn />,
+        icon: <FaLinkedinIn className="fa-linkedin" />,
         url: 'https://www.linkedin.com/in/rahma-mghirbi-a31b06271/',
       },
       {
-        icon: <FaTwitter />,
+        icon: <FaTwitter className="fa-twitter"  />,
         url: '#',
       },
     ],
   },
   {
-    images: 'rayen',
-    title: 'Med Rayen Taamallah',
-    designation: 'Marketing Manager',
+    images: 'hamdi',
+    title: 'Iheb Hamdi ',
+    designation: ' Web developer & Digital Twins Specialist ',
     socialNetwork: [
       {
-        icon: <FaFacebookF />,
+        icon: <FaFacebookF className="fa-linkedin"/>,
         url: '#',
       },
       {
-        icon: <FaLinkedinIn />,
+        icon: <FaLinkedinIn className="fa-linkedin"/>,
         url: '#',
       },
       {
-        icon: <FaTwitter />,
+        icon: <FaTwitter className="fa-twitter"  />,
+        url: '#',
+      },
+    ],
+  }
+  ,
+  {
+    images: 'nidhal',
+    title: 'Nidhal Jaafri ',
+    designation: ' Robotics Engineer',
+    socialNetwork: [
+      {
+        icon: <FaFacebookF className="fa-linkedin"/>,
+        url: '#',
+      },
+      {
+        icon: <FaLinkedinIn className="fa-linkedin"/>,
+        url: '#',
+      },
+      {
+        icon: <FaTwitter className="fa-twitter"  />,
         url: '#',
       },
     ],

@@ -11,7 +11,7 @@ class Testimonial extends Component{
                     <div className='rn-testimonial-content text-center'>
                       <div className='inner'>
                         <a href='http://www.ept.rnu.tn/'>
-                          <p>Polytechnic School of Tunisia</p>
+                          <p>{/*Polytechnic School of Tunisia*/}</p>
                         </a>
                       </div>
                       {/* <div className="author-info">
@@ -26,8 +26,8 @@ class Testimonial extends Component{
                         <a href='http://www.enmv.agrinet.tn/index.php/fr/'>
                           {' '}
                           <p>
-                            National school of veterinary medicine of sidi
-                            thabet
+                            {/*National school of veterinary medicine of sidi
+                            thabet*/}
                           </p>
                         </a>
                       </div>
@@ -41,7 +41,7 @@ class Testimonial extends Component{
                       <div className='inner'>
                         {' '}
                         <a href='http://www.um.rnu.tn/en/institutions/faculties/faculty-of-pharmacy-of-monastir/'>
-                          <p>Faculty of Pharmacy of Monastir</p>
+                          <p>{/*Faculty of Pharmacy of Monastir*/}</p>
                         </a>
                       </div>
                       {/* <div className="author-info">
@@ -55,8 +55,38 @@ class Testimonial extends Component{
                       <div className='inner'>
                         <a href='https://www.icarda.org/'>
                           <p>
-                            International Center for Agricultural Research in
-                            the Dry Areas
+    {/*                            International Center for Agricultural Research in
+                            the Dry Areas*/} 
+                          </p>
+                        </a>
+                      </div>
+                      {/* <div className="author-info">
+                                        <h6><span>Johns Due </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                    </div> */}
+                    </div>
+                  </TabPanel>
+                  <TabPanel>
+                    <div className='rn-testimonial-content text-center'>
+                      <div className='inner'>
+                        <a href=''>
+                          <p>
+    {/*                            International Center for Agricultural Research in
+                            the Dry Areas*/} 
+                          </p>
+                        </a>
+                      </div>
+                      {/* <div className="author-info">
+                                        <h6><span>Johns Due </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                    </div> */}
+                    </div>
+                  </TabPanel>
+                  <TabPanel>
+                    <div className='rn-testimonial-content text-center'>
+                      <div className='inner'>
+                        <a href=''>
+                          <p>
+    {/*                            International Center for Agricultural Research in
+                            the Dry Areas*/} 
                           </p>
                         </a>
                       </div>
@@ -67,16 +97,7 @@ class Testimonial extends Component{
                   </TabPanel>
 
                   <TabList className='testimonial-thumb-wrapper'>
-                    <Tab>
-                      <div className='testimonial-thumbnai'>
-                        <div className='thumb'>
-                          <img
-                            src='/assets/images/client/EPT.jpg'
-                            alt='Testimonial Images'
-                          />
-                        </div>
-                      </div>
-                    </Tab>
+                   
                     <Tab>
                       <div className='testimonial-thumbnai'>
                         <div className='thumb'>
@@ -101,12 +122,75 @@ class Testimonial extends Component{
                       <div className='testimonial-thumbnai'>
                         <div className='thumb'>
                           <img
-                            src='/assets/images/client/ICARDA.png'
+                            src='/assets/images/client/EPT.jpg'
                             alt='Testimonial Images'
                           />
                         </div>
                       </div>
                     </Tab>
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/issa.jpg'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/ICARDA.jpg'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                    
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/fmm.png'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/ipt.png'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                   
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/st.png'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                    <Tab>
+                      <div className='testimonial-thumbnai'>
+                        <div className='thumb'>
+                          <img
+                            src='/assets/images/client/mi.jpg'
+                            alt='Testimonial Images'
+                          />
+                        </div>
+                      </div>
+                    </Tab>
+                  
                   </TabList>
                 </Tabs>
               </div>

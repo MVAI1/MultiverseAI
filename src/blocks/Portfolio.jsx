@@ -22,7 +22,7 @@ const list = [
     },
     {
         image: 'image-3',
-        category: 'Development',
+        category: 'DevPortfolioListelopment',
         title: 'Getting tickets to the big show'
     },
     {

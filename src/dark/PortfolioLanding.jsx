@@ -38,19 +38,9 @@ const SlideList = [
     bgImage: 'bg_image--28',
     title: 'Multiverse AI',
     description:
-      'AI-Empowered Digital Transition towards Sustainable Development.',
+      'AI-Empowered Digital Transition towards Sustainable Development. ',
     buttonText: 'Read more',
     buttonLink: 'http://54.200.220.211:5000',
-  },
-  {
-    textPosition: 'text-center',
-    category: '',
-    bgImage: 'bg_image--34',
-    title: 'ImmunoScan Thesis',
-    description:
-      "CARACTÉRISATION DE LA RÉPONSE IMMUNITAIRE POST-VACCINALE CONTRE LA NODAVIROSE CHEZ LE LOUP MARIN (Dicentrarchus labrax) EN UTILISANT L’APPROCHE MULTIOMIQUE DE PRÉCISION",
-    buttonText: 'Watch Video',
-    buttonLink: 'https://youtu.be/MCPXN4jVnic',
   },
   {
     textPosition: 'text-center',
@@ -64,11 +54,22 @@ const SlideList = [
   },
   {
     textPosition: 'text-center',
-    bgImage: 'bg_image--31',
     category: '',
-    title: 'Why livestock matter',
+    bgImage: 'bg_image--34',
+    title: 'Precision Poultry Farming',
     description:
-      'Livestock in developing countries contribute up to 80% of agricultural GDP; 600 million rural poor people rely on livestock for their livelihoods.',
+        "Enhancing poultry farming practices with advanced technology for greater efficiency and better animal welfare.",
+    buttonText: 'Read more',
+    buttonLink: '',
+  },
+  
+  {
+    textPosition: 'text-center',
+    bgImage: 'bg_image--35',
+    category: '',
+    title: 'Precision Aquaculture',
+    description:
+      'Innovating aquaculture techniques for optimized fish farming and sustainable aquatic resource management.',
     buttonText: 'Read more',
     buttonLink: '',
   }
@@ -359,7 +360,7 @@ const PortfolioLanding = () => {
         <div className='container'>
           <div className='col-lg-12'>
             <div className='section-title text-center service-style--3 mb--30 mb_sm--0'>
-              <h2 className='title'>We Work With the Best Partners</h2>
+              <h2 className='title'>Our Partners</h2>
             </div>
           </div>
           <Testimonial />

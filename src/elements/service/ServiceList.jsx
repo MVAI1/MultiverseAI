@@ -28,7 +28,7 @@ const ServiceList = [
     icon: <FaFish />,
     title: 'Aqua Twins',
     description:
-      'Aquaculture management system',
+      'AI-Empowered Digital Twins for a sustainable Aquaculture',
   },
   {
     icon: <LunchDiningOutlinedIcon sx={{ fontSize: 50 }} />,
@@ -52,7 +52,7 @@ const ServiceListReady = [
     title: 'AVI-Twins',
     description:
       'AI-Empowered Digital Twins for a sustainable aviculture ',
-    url: 'https://aviscrisprtwins.com/',
+    url: '',
   }
   // {
   //   icon: <MedicationOutlinedIcon sx={{ fontSize: 50 }} />,
