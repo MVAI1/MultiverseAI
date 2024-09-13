@@ -123,7 +123,7 @@ let TeamContent = [
     ],
   },
   {
-    images: 'samii',
+    images: 'man',
     title: 'Dr. Sami Ameur',
     designation: 'Associate Professor | Biosensors & Microelectronics Expert at School of Agriculture Tunisia',
     socialNetwork: [

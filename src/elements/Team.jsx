@@ -26,7 +26,7 @@ let TeamContent = [
   }, {
     images: 'aymen',
     title: 'Dr.Eng Aymen Yahyaoui',
-    designation: 'CTO MVAI | Senior AI&ML Researcher',
+    designation: 'CTO MVAI | Senior AI&ML Researcher| Sales and Marketing Manager Europe',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -46,7 +46,7 @@ let TeamContent = [
   {
     images: 'wassimm',
     title: 'Eng. Wassim Sliti',
-    designation: ' Tech Lead | Computer Vision  Engineer',
+    designation: ' Tech Lead MVAI | Computer Vision  Engineer',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -65,7 +65,7 @@ let TeamContent = [
   {
     images: 'maher',
     title: 'Eng. Maher Boughdiri',
-    designation: 'Product Lead MVAI | IoT & Blockchain Specialist | PhD Student',
+    designation: 'Product Lead MVAI | IoT & Blockchain Specialist ',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -101,9 +101,28 @@ let TeamContent = [
     ],
   },
   {
+    images: 'syrine',
+    title: 'ENVM. Syrine Gorbel',
+    designation: '  Sales and Marketing Manager North America',
+    socialNetwork: [
+      {
+        icon: <FaLinkedinIn className="fa-linkedin" />,
+        url: '',
+      },
+      {
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: '',
+      },
+      {
+        icon: <FaTwitter className="fa-twitter" />,
+        url: '#',
+      },
+    ],
+  },
+  {
     images: 'rahmaa',
     title: ' Rahma Mghirbi',
-    designation: ' Sales Manager ',
+    designation: ' Mobile Developer',
     socialNetwork: [
       {
         icon: <FaFacebookF className="fa-linkedin"/>,
@@ -138,6 +157,7 @@ let TeamContent = [
       },
     ],
   }
+  
   ,
   {
     images: 'nidhal',
