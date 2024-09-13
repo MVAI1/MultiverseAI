@@ -121,7 +121,7 @@ let TeamContent = [
   },
   {
     images: 'rahmaa',
-    title: ' Rahma Mghirbi',
+    title: ' Eng. Rahma Mghirbi',
     designation: ' Mobile Developer',
     socialNetwork: [
       {
@@ -140,7 +140,7 @@ let TeamContent = [
   },
   {
     images: 'hamdi',
-    title: 'Iheb Hamdi ',
+    title: 'Eng. Iheb Hamdi ',
     designation: ' Web developer & Digital Twins Specialist ',
     socialNetwork: [
       {
@@ -161,7 +161,7 @@ let TeamContent = [
   ,
   {
     images: 'nidhal',
-    title: 'Nidhal Jaafri ',
+    title: 'Eng. Nidhal Jaafri ',
     designation: ' Robotics Engineer',
     socialNetwork: [
       {
