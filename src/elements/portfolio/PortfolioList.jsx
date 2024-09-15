@@ -6,9 +6,9 @@ import { FaFacebookF, FaLinkedinIn, FaTwitter ,FaResearchgate } from "react-icon
 let TeamContent = [
   
   {
-    images: 'boutheina',
-    title: 'DVM Boutheina Mardassi ',
-    designation: 'Doctor of Veterinary Medicine, Ph.D at PASTEURTN | Vaccinology and Biotechnology Expert',
+    images: 'raouf',
+    title: 'Pr. Dhaoudi raouf (DMV)',
+    designation: 'President of the National School of Veterinary Medicine of Sidi Thabet, Tunisia',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -23,11 +23,10 @@ let TeamContent = [
         url: '#',
       },
     ],
-  }
-  ,
+  },
   {
     images: 'wadii',
-    title: 'Dr Wadii Boulila ',
+    title: 'Dr. Wadii Boulila ',
     designation: 'Associate Professor of Computer Science & Senior Researcher, Prince Sultan University, Saudi Arabia',
     socialNetwork: [
       {
@@ -47,8 +46,8 @@ let TeamContent = [
   ,
   {
     images: 'saadi',
-    title: 'DMV Ismail Saadi ',
-    designation: 'Member of Board of Directors SM; Survey Officer IFS Food, BRCGS Food and FSSC 22000; Market Director ProCert Maghreb; Lead Auditor & Lead Tutor ' ,
+    title: 'Dr. Ismail Saadi (DMV) ',
+    designation: 'Member of Board of Directors SM, Survey Officer IFS Food,  Market Director ProCert Maghreb' ,
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -67,8 +66,8 @@ let TeamContent = [
 ,
   {
     images: 'jem',
-    title: 'Dr Mohamed Jemaà ',
-    designation: 'Assistant Professor & Scientist and Cancer Researcher FMT - FST Tunis, Tunisia' ,
+    title: 'Dr. Mohamed Jemaà (PhD) ',
+    designation: 'Associate Professor & Senior research leader at Faculty of Medicine of Tunis, Tunisia' ,
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -86,8 +85,8 @@ let TeamContent = [
   },
   {
     images: 'fethi',
-    title: 'DVM Mohamed Fethi Diouani',
-    designation: 'Major Veterinary Health Physician at the Pasteur Institute in Tunis',
+    title: 'Dr. Mohamed Fethi Diouani (DMV, PhD)',
+    designation: ' Senior research leader at  Pasteur Institute of Tunis, Tunisia',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -103,25 +102,7 @@ let TeamContent = [
       },
     ],
   },
-  {
-    images: 'raouf',
-    title: 'DVM Raouf Dhaouadi',
-    designation: 'President of ENMV & Doctor of Veterinary Medicine',
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: '#',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: '#',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  },
+ 
   {
     images: 'man',
     title: 'Dr. Sami Ameur',
@@ -134,105 +115,6 @@ let TeamContent = [
       {
         icon: <FaResearchgate className="fa-researchgate" />,
         url: '#',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  },
-  {
-    images: 'farah',
-    title: 'Dr Farah Azouzi ',
-    designation: 'Assistant Professor in Medical Microbiology,  Ibn El Jazzar Medical Faculty of Sousse' ,
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/azouzi-farah-68a76581/?locale=en_US',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Farah-Azouzi-2',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  }
-  ,
-  {
-    images: 'bench',
-    title: 'Dr Mohamed Hedi Ben Cheikh ',
-    designation: 'Pharmacist & Analytical Chemist' ,
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/mohamed-hedi-ben-cheikh-b39a0228/?originalSubdomain=tn',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: '',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  }
-  ,
-  {
-    images: 'mahjoub',
-    title: 'Dr Marouane Mahjoub  ',
-    designation: 'Associate Professor in cardiology at University Hospital Monastir Tunisia' ,
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/marouane-mahjoub-6777014/?originalSubdomain=tn',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: '',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  }
-  ,
-  {
-    images: 'ines',
-    title: 'Dr Ines Bartegi ',
-    designation: 'Doctor of Medicine - Infectious diseases at Hopital Fattouma bourguiba, Monastir-Tunisia' ,
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/ines-bartegi-b7b838208/?originalSubdomain=tn',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.endocrine-abstracts.org/ea/0090/ea0090p645',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  }
-  ,
-  {
-    images: 'ich',
-    title: 'Dr Ichrak Bannour ',
-    designation: 'Assistant Professor of  Immunology-  University of Monastir | UTM · Department of Biology ' ,
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: '',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Ichrak-Bannour',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,

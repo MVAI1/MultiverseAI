@@ -38,9 +38,9 @@ const SlideList = [
     bgImage: 'bg_image--28',
     title: 'Multiverse AI',
     description:
-      'AI-Empowered Digital Transition towards Sustainable Development. ',
+      'AI-Empowered Digital Transition towards Sustainable Development.',
     buttonText: 'Read more',
-    buttonLink: 'http://54.200.220.211:5000',
+    buttonLink: '',
   },
   {
     textPosition: 'text-center',

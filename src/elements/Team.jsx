@@ -5,8 +5,8 @@ let TeamContent = [
  
   {
     images: 'amin',
-    title: 'DVM. Amine Mosbah',
-    designation: 'CEO MVAI| Senior biomedical & Data science researcher',
+    title: 'Dr. Amine Mosbah (DMV, PhD) ',
+    designation: 'CEO MVAI | Senior biomedical & Data science researcher | Business Development Manager (Africa)',
     description: 'Dr. Mosbah is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
     socialNetwork: [
       {
@@ -26,7 +26,7 @@ let TeamContent = [
   }, {
     images: 'aymen',
     title: 'Dr.Eng Aymen Yahyaoui',
-    designation: 'CTO MVAI | Senior AI&ML Researcher| Sales and Marketing Manager Europe',
+    designation: 'CTO MVAI | Senior AI&ML Researcher| Business Development Manager (Europe)',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -65,7 +65,7 @@ let TeamContent = [
   {
     images: 'maher',
     title: 'Eng. Maher Boughdiri',
-    designation: 'Product Lead MVAI | IoT & Blockchain Specialist ',
+    designation: 'Product Lead MVAI | IoT & Blockchain Specialist | PhD Student ',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -84,7 +84,7 @@ let TeamContent = [
   {
     images: 'iheb',
     title: 'Eng. Iheb Chhaibi',
-    designation: 'AI & ML Engineer ',
+    designation: 'GenAI & ML Engineer |Edge AI Developer',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -102,8 +102,8 @@ let TeamContent = [
   },
   {
     images: 'syrine',
-    title: 'ENVM. Syrine Gorbel',
-    designation: '  Sales and Marketing Manager North America',
+    title: 'Dr. Syrine Ben  Gorbel (DMV)',
+    designation: '   Business Development Manager (USA)',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
@@ -122,7 +122,7 @@ let TeamContent = [
   {
     images: 'rahmaa',
     title: ' Eng. Rahma Mghirbi',
-    designation: ' Mobile Developer',
+    designation: '  Computer Science  Engineer | Mobile Developer',
     socialNetwork: [
       {
         icon: <FaFacebookF className="fa-linkedin"/>,
@@ -162,7 +162,7 @@ let TeamContent = [
   {
     images: 'nidhal',
     title: 'Eng. Nidhal Jaafri ',
-    designation: ' Robotics Engineer',
+    designation: ' Computer Science  Engineer | Robotics Specialist ',
     socialNetwork: [
       {
         icon: <FaFacebookF className="fa-linkedin"/>,
