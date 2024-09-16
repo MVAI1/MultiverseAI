@@ -103,7 +103,7 @@ let TeamContent = [
   {
     images: 'syrine',
     title: 'Dr. Syrine Ben  Gorbel (DMV)',
-    designation: '   Partner',
+    designation: '   Partner MVAI (USA)',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
