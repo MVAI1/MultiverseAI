@@ -65,7 +65,7 @@ let TeamContent = [
   }
   ,
   {
-    images: 'malouk',
+    images: 'khaled',
     title: 'Pr. Khaled KABOUDI (DMV)',
     designation: ' Professor, Department of Poultry Management and Pathology, National School of Veterinary Medicine Medicine of Sidi Thabet, Tunisia.' ,
     socialNetwork: [
