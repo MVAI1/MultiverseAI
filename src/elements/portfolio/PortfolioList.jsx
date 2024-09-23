@@ -45,17 +45,37 @@ let TeamContent = [
   }
   ,
   {
-    images: 'saadi',
-    title: 'Dr. Ismail Saadi (DMV) ',
-    designation: 'Member of Board of Directors SM, Survey Officer IFS Food,  Market Director ProCert Maghreb' ,
+    images: 'malouk',
+    title: 'Pr. Aymen Mamlouk (DMV)',
+    designation: 'Professor of Microbiology, National School of Veterinary Medicine of Sidi Thabet, Tunisia.' ,
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: '',
+        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Ichrak-Bannour',
+        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
+      },
+      {
+        icon: <FaTwitter className="fa-twitter" />,
+        url: '#',
+      },
+    ],
+  }
+  ,
+  {
+    images: 'malouk',
+    title: 'Pr. Khaled KABOUDI (DMV)',
+    designation: ' Professor, Department of Poultry Management and Pathology, National School of Veterinary Medicine Medicine of Sidi Thabet, Tunisia.' ,
+    socialNetwork: [
+      {
+        icon: <FaLinkedinIn className="fa-linkedin" />,
+        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
+      },
+      {
+        icon: <FaResearchgate className="fa-researchgate" />,
+        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
