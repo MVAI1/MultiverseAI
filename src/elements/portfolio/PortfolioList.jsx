@@ -71,11 +71,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
+        url: 'https://www.linkedin.com/in/kaboudi-khaled-b5776475/',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.linkedin.com/in/aymen-mamlouk-9ba7603b/',
+        url: 'https://www.linkedin.com/in/kaboudi-khaled-b5776475/',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
