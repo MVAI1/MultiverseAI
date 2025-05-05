@@ -104,26 +104,6 @@ let TeamContent = [
     ],
   },
   {
-    images: 'fethi',
-    title: 'Dr. Mohamed Fethi Diouani (DMV, PhD)',
-    designation: ' Senior research leader at  Pasteur Institute of Tunis, Tunisia',
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: '#',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: '#',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  },
- 
-  {
     images: 'man',
     title: 'Dr. Sami Ameur',
     designation: 'Associate Professor | Biosensors & Microelectronics Expert at School of Agriculture Tunisia',

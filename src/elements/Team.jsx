@@ -5,40 +5,39 @@ let TeamContent = [
  
   {
     images: 'amin',
-    title: 'Dr. Amine Mosbah (DMV, PhD) ',
-    designation: 'CEO MVAI | Senior biomedical & Data science researcher | Business Development Manager (Africa)',
-    description: 'Dr. Mosbah is a machine learning engineer with a passion for developing intelligent systems and innovative solutions to complex problems.',
+    title: 'Dr. Amine Mosbah  ',
+    designation: 'Co-Founder| Senior biomedical & Data science researcher ',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
+        url: '',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Amine-Mosbah',
+        url: '',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
-        url: 'https://www.linkedin.com/in/amine-m-b435a83a/',
+        url: '',
       },
     ],
     
   }, {
     images: 'aymen',
     title: 'Dr.Eng Aymen Yahyaoui',
-    designation: 'CTO MVAI | Senior AI&ML Researcher| Business Development Manager (Europe)',
+    designation: 'Co-Founder | Senior AI&ML Researcher',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
+        url: '',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Aymen-Yahyaoui',
+        url: '',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
-        url: 'https://www.linkedin.com/in/aymen-yahyaoui-40a124a/',
+        url: '',
       },
     ],
     
@@ -50,11 +49,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/wassim-sliti-72b080187/',
+        url: '',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Sliti-Wassim',
+        url: '',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
@@ -69,11 +68,11 @@ let TeamContent = [
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: 'https://www.linkedin.com/in/maherboughdiri/',
+        url: '',
       },
       {
         icon: <FaResearchgate className="fa-researchgate" />,
-        url: 'https://www.researchgate.net/profile/Boughdiri-Maher',
+        url: '',
       },
       {
         icon: <FaTwitter className="fa-twitter" />,
@@ -85,25 +84,6 @@ let TeamContent = [
     images: 'iheb',
     title: 'Eng. Iheb Chhaibi',
     designation: 'GenAI & ML Engineer |Edge AI Developer',
-    socialNetwork: [
-      {
-        icon: <FaLinkedinIn className="fa-linkedin" />,
-        url: '',
-      },
-      {
-        icon: <FaResearchgate className="fa-researchgate" />,
-        url: '',
-      },
-      {
-        icon: <FaTwitter className="fa-twitter" />,
-        url: '#',
-      },
-    ],
-  },
-  {
-    images: 'syrine',
-    title: 'Dr. Syrine Ben  Gorbel (DMV)',
-    designation: '   Partner MVAI (USA)',
     socialNetwork: [
       {
         icon: <FaLinkedinIn className="fa-linkedin" />,

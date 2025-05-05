@@ -19,10 +19,10 @@ class ContactThree extends Component{
                   <div className='section-title text-left mb--50'>
                     <h2 className='title'>{this.props.contactTitle}</h2>
                     <p className='description'>
-                      Connect with us via email:
-                      <a href='mailto:contact@multiversai.com'>
+                      Connect with us via email/phone:
+                      <a href='mailto:contact@imversai.com'>
                         {' '}
-                        contact@imverss.com
+                        contact@imversai.com/0021642436621
                       </a>{' '}
                     
                     </p>
