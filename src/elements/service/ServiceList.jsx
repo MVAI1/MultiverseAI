@@ -18,19 +18,6 @@ const ServiceList = [
     url: '',
   },
   {
-    icon: <VaccinesOutlinedIcon sx={{ fontSize: 50 }} />,
-    title: 'ATB Scan',
-    description:
-      'Antibiotic susceptibility test interpretation',
-    url: '',
-  },
-  {
-    icon: <FaFish />,
-    title: 'Aqua Twins',
-    description:
-      'AI-Empowered Digital Twins for a sustainable Aquaculture',
-  },
-  {
     icon: <LunchDiningOutlinedIcon sx={{ fontSize: 50 }} />,
     title: 'Food Scan',
     description:
@@ -52,14 +39,29 @@ const ServiceListReady = [
     title: 'AVI-Twins',
     description:
       'AI-Empowered Digital Twins for a sustainable aviculture ',
-    url: '',
-  }
-  // {
-  //   icon: <MedicationOutlinedIcon sx={{ fontSize: 50 }} />,
-  //   title: 'Drug Scan',
-  //   description:
-  //     'Drug combination to reduce therapeutic failure',
-  // },
+    url: 'https://youtu.be/15r8wVRVaOc',
+  },
+  {
+    icon: <FaFish />,
+    title: 'Aqua Twins',
+    description:
+      'AI-Empowered Digital Twins for a sustainable Aquaculture',
+      url: 'https://youtu.be/nv8XWsW74Qg?si=yKNt5_LfAZ_4-I1q',
+  },
+  {
+    icon: <VaccinesOutlinedIcon sx={{ fontSize: 50 }} />,
+    title: 'ATB Scan',
+    description:
+      'AI-Empowered Antibiotic susceptibility test interpretation',
+    url: 'https://youtu.be/peOUB_D_UQ8',
+  },
+   {
+     icon: <MedicationOutlinedIcon sx={{ fontSize: 50 }} />,
+     title: 'Blood Scan',
+     description:
+       'AI-based solution  for blood scan analysis',
+     url:'https://youtu.be/nzyE6I6iDjg',
+   },
 ];
 
 
